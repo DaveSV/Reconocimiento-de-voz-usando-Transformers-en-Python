@@ -7,4 +7,5 @@ Reconocimiento automático de voz (ASR) usando el transformador wav2vec2 con la 
 El reconocimiento automático de voz (ASR) es la tecnología que nos permite convertir el habla humana en texto digital. Este tutorial se sumergirá en el modelo de vanguardia actual llamado Wav2vec2 utilizando la biblioteca de transformadores Huggingface en Python.
 
 Notebook para archivos en español: https://github.com/DaveSV/Reconocimiento-de-voz-usando-Transformers-en-Python/blob/main/AutomaticSpeechRecognition_Python.ipynb
+
 Notebook para archivos en inglés: https://github.com/DaveSV/Reconocimiento-de-voz-usando-Transformers-en-Python/blob/main/Automatic_Speech_Recognition.ipynb
